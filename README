@@ -1,0 +1,7 @@
+1. created a new npm project using npm init -y
+2. Added the modules needed in the code in package.json
+3. changed all unchanging variables from let to const
+4. Created a common function to do api get call
+5. Returned promise from function doing http call
+6. removed unused modules
+7. created separate function to make api call + blending pictures
